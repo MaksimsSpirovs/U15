@@ -25,7 +25,7 @@
 
 .container {
   padding: 0 16px;
-	background-color: #fff4cc;
+  background-color: #fff4cc;
 }
 
 /* Clear floats */
@@ -97,7 +97,8 @@
   color: #c3996b;
   border: none;
   padding: 10px 20px;
-	font-size: 40px;
+  font-size: 40px;
+  text=decoration: none;
 }
 
 .image-button {
@@ -118,6 +119,7 @@
 	width: 50px;
 	height: 50px;
 	font-size: 30px;
+        text-decoration: none;
 }
 .BOXES {
 position: absolute;
