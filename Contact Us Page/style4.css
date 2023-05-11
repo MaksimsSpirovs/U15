@@ -1,0 +1,118 @@
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 80vh;
+	background-color: #fff44cc;	
+    }
+	
+    .contactus {
+      width: 900px;
+	  height: 600px;
+      padding: 20px;
+      background-color: #FFF4BE;
+      border-radius: 5px;
+      text-align: center;
+    }
+
+    .clr[type="text"],
+    textarea {
+      width: 800px;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+
+    /* Style the submit button */
+    input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      border-radius: 3px;
+      cursor: pointer;
+}
+.BG {
+	background-color: #fff4cc;	
+}
+.textboxes {
+	 background-color: #c3996b;
+}
+
+.clr {
+	color: #c3996b;
+}
+
+.pane {
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.pane-2 {
+	position: absolute;
+	left: %;
+	top: 9.8%;
+	font-family: "Impact", "Haettenschweiler", "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: #c3996b
+}
+.column {
+	font-family: "Impact", "Haettenschweiler", 'Franklin Gothic Bold', 'Arial Black', 'sans-serif';
+	color: #c3996b;
+	background-color: #fff4cc;
+}
+
+.pane-3 {
+	top: 100%;
+	font-family: "Impact", "Haettenschweiler", "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: #c3996b;
+}
+
+.pane-1 {
+	bottom: 2%;
+}
+.centered {
+	text-align: center; vertical-align: top;
+
+	font-size: 30px;
+}
+.hotbean {
+	color: #c3996b;
+	text-align: center;
+
+}
+.notcolumn {
+	text-align: center;
+}
+.my-button {
+  background-color: #fff4cc ;
+  color: #c3996b;
+  border: none;
+  padding: 10px 20px;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+.image-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.image-button img {
+  width: 100px;
+  height: 100px;
+}
+.searchbar {
+	width: 400px;
+	height: 50px;
+	font-size: 30px;
+}
+.button {
+	width: 50px;
+	height: 50px;
+	font-size: 30px;
+}
