@@ -82,8 +82,8 @@
 	bottom: 2%;
 }
 .centered {
-	text-align: center; vertical-align: top;
-
+	text-align: center;
+	vertical-align: top;
 	font-size: 30px;
 }
 .hotbean {
@@ -100,7 +100,7 @@
   border: none;
   padding: 10px 20px;
   font-size: 40px;
-  text=decoration: none;
+  text-decoration: none;
 }
 
 .image-button {
