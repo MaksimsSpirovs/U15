@@ -44,7 +44,7 @@
   color: #c3996b;
   border: none;
   padding: 10px 20px;
-  text=decoration: none;
+  text-decoration: none;
 }
 
 .image-button {
@@ -69,7 +69,7 @@ background-color: transparent;
 	height: 50px;
 	font-size: 30px;
 	background-color: #fff4cc;
-	text=decoration: none;
+	text-decoration: none;
 }
 .CLICKYBUTTONS {
 	background-color: transparent;
